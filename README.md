@@ -1,9 +1,11 @@
 # Pokemon-Search-with-Brock-Pewter-City-Gym-Trainer
 
 ## Coded in NativeScript
-    NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
-
-**Some popular use cases:
+    NativeScript provides platform APIs directly to the 
+    JavaScript runtime (with strong types) for a rich 
+    TypeScript development experience.
+    
+** Some popular use cases:
 
 - Building Web, iOS, Android and Vision Pro apps with a   shared codebase (aka, cross platform apps)
 
