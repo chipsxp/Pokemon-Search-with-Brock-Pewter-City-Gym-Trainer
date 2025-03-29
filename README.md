@@ -7,19 +7,20 @@
     
 ** Some popular use cases:
 
-- Building Web, iOS, Android and Vision Pro apps with a   shared codebase (aka, cross platform apps)
+- Building Web, iOS, Android and Vision Pro apps with a   shared codebase (aka, cross platform apps).
 
 - Building native platform apps with portable JavaScript skills
 
-- Augmenting JavaScript projects with platform API capabilities
+- Augmenting JavaScript projects with platform API capabilities.
 
 - AndroidTV and Watch development
-watchOS development
+watchOS development.
 
-- Learning native platforms through JavaScript understanding
+- Learning native platforms through JavaScript understanding.
 
-- Exploring platform API documentation by trying APIs directly from a web browser[Preview Nativescript.org](https://preview.nativescript.org/) without requiring a platform development machine setu
+- Exploring platform API documentation by trying APIs directly from a web browser[Preview Nativescript.org](https://preview.nativescript.org/) without requiring a platform development machine setup.
+
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/chipsxp/Pokemon-Search-with-Brock-Pewter-City-Gym-Trainer)
 
-## npm install && npm run dev after clone
+#### npm install && npm run dev after clone
